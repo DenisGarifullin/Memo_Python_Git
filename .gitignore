@@ -1,0 +1,4 @@
+secret/
+*.log
+config.txt
+git_help.rtf

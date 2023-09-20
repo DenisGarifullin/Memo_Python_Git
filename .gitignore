@@ -1,4 +1,5 @@
 secret/
+res/
 *.log
 config.txt
 Command Prompt.lnk
